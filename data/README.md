@@ -1,7 +1,7 @@
 # Dataset Information
 
 The dataset used to train and test the model was taken from:  
-🔗 [Anomaly Detection from Sound Data (Fan) – Kaggle](https://www.kaggle.com/datasets/vuppalaadithyasairam/anomaly-detection-from-sound-data-fan)
+[Anomaly Detection from Sound Data (Fan) – Kaggle](https://www.kaggle.com/datasets/vuppalaadithyasairam/anomaly-detection-from-sound-data-fan)
 
 ---
 
